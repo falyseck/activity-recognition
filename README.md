@@ -24,6 +24,7 @@ A Python-based pipeline that collects smartphone sensor data and uses Hidden Mar
 ├── decoded_sequence.png
 ├── confusion_matrix.png
 ├── feature_distributions.png
+├── ElHadjiFalySeck_Formative2HMM.pdf (report)
 └── README.md
 ```
 
